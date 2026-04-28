@@ -1,5 +1,7 @@
 # Sales Performance Dashboard
 
+## Dashboard Preview
+https://github.com/AdarshMG009/sales-performance-dashboard/blob/68b610a95f942ceaef46bf1e53db6f06afefd5ee/Dashboard/sales_dashboard.png
 
 ## Overview
 This project analyzes sales data using Excel to identify key business insights.
